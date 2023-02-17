@@ -665,7 +665,7 @@ img {
   overflow: auto;
 }
 
-.portfolio-card:is(:hover, :focus) .portfolio-cover-text {
+.portfolio-card-link:is(:hover, :focus) .portfolio-cover-text {
   transform: translateY(0);
 }
 
